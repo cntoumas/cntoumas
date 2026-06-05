@@ -31,10 +31,6 @@ FPGA design and verification, RTL coding, digital image processing circuits.
 
 <div align="center">
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=cntoumas&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117)
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=cntoumas&theme=github-dark-blue&hide_border=true&background=0d1117)](https://git.io/streak-stats)
-
 </div>
 
 ### 🌐 Connect with Me
