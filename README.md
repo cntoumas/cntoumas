@@ -4,7 +4,7 @@
 
 ## FPGA & Embedded Electronics Engineer
 
-> Christos is an FPGA development and Embedded Electronics engineer with hands-on expertise in RTL design, FPGA implementation, and digital verification as well as embedded development and measurements. He has a strong background in C++ and Python, and showcases a performance optimization aptitude through his MSc thesis on benchmarking FPGA FFT architectures.
+> Christos is an FPGA development and Embedded Electronics engineer with hands-on expertise in RTL design, FPGA implementation, and digital verification as well as embedded development, measurements and signal processing algorithms. He has a strong background in C++ and Python, and showcases a performance optimization aptitude through his MSc thesis on benchmarking FPGA FFT architectures.
 
 
 ### 🛠️ Tech Stack
@@ -21,7 +21,7 @@ FPGA development projects, digital signal processing, hardware design, and optim
 
 ### 💬 Ask Me About
 
-FPGA design and verification, RTL coding, digital image processing circuits.
+FPGA design and verification, RTL coding, digital signal processing circuits.
 
 ### 📊 GitHub Statistics
 
