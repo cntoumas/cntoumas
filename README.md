@@ -2,14 +2,10 @@
 
 [![Profile Views](https://komarev.com/ghpvc/?username=cntoumas&color=blue&style=flat-square)](https://github.com/cntoumas)
 
-## FPGA Development Engineer
+## FPGA & Embedded Electronics Engineer
 
-> Christos is an FPGA development engineer with hands-on expertise in RTL design, FPGA implementation, and digital verification. He has a strong background in C++ and Python, and showcases a performance optimization aptitude through his MSc thesis on benchmarking FPGA FFT architectures.
+> Christos is an FPGA development and Embedded Electronics engineer with hands-on expertise in RTL design, FPGA implementation, and digital verification as well as embedded development and measurements. He has a strong background in C++ and Python, and showcases a performance optimization aptitude through his MSc thesis on benchmarking FPGA FFT architectures.
 
-### 🏢 Experience
-
-- Currently at **EUROCAMP Thassos**
-- Based in **Thessaloniki, Greece**
 
 ### 🛠️ Tech Stack
 
